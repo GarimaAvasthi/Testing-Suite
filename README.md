@@ -26,7 +26,7 @@ A high-fidelity, interactive Next.js application designed to showcase enterprise
 ### Installation
 1. Clone the repository.
    ```bash
-   git clone 
+   git clone "https://github.com/GarimaAvasthi/Testing-Suite.git"
    ```
 2. Install the dependencies.
    ```bash
